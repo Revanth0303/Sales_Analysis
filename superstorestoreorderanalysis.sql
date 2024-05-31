@@ -9,7 +9,7 @@ Find the total sales, and total quantity sold
 Find the average profit, and discount */
 
 select 
-count(ï»¿order_id) as total_orders,
+count(order_id) as total_orders,
 count(distinct country ) as total_countries,
 count(distinct product_name) as total_products,
 count(distinct category) as total_categories,
