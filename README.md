@@ -21,9 +21,7 @@
   + **Spreadsheet Software:**  Such as Microsoft Excel or Google Sheets for data manipulation and visualization.
 ## Methodology
   + **Data Extraction:** Import the superstore sales data into the SQL database.
-  + **Data Extraction:** Import the superstore sales data into the SQL database.
   + **Data Transformation:** Transform the data into a suitable format for analysis (e.g., creating derived columns, aggregating data).
-  + **Exploratory Data Analysis (EDA):** Conduct EDA to understand the data distribution, identify patterns, and generate initial insights.
   + **Exploratory Data Analysis (EDA):** Conduct EDA to understand the data distribution, identify patterns, and generate initial insights.
   + **Reporting:** To represent the findings and compile a comprehensive report.
 ## Key SQL Queries
