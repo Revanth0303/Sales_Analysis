@@ -1,5 +1,5 @@
-# Superstore Sales SQL Data Analysis 
-(https://github.com/Revanth0303/Sales_Analysis/blob/main/superstoresales%20analysis%20image.jpg)
+# Superstore Sales SQL Data Analysis ![superstoresales analysis image](https://github.com/Revanth0303/Sales_Analysis/assets/136751544/197d044f-169e-45a5-b485-a10969729406)
+
 ## Project Overview
   The Superstore Sales SQL Data Analysis project aims to analyse the sales data from a retail superstore to uncover insights and trends. The analysis will focus on various aspects such as sales performance, customer behaviour, product categories, and regional sales distribution. The ultimate goal is to provide actionable insights that can help improve business strategies and decision-making.
 
